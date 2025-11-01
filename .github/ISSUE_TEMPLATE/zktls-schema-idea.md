@@ -17,8 +17,7 @@ e.g., Capture GET request to devices endpoint, notarize `/devices` JSON field
 - **Request this URL**: e.g., https://appleid.apple.com/account/manage/security/devices
 - **Method**: GET
 - **Relevant Response Snippet**:
-  ```json
-  ...
+```json
   "devices": [
     {
       "id": "ABC123DEF456",
@@ -28,7 +27,6 @@ e.g., Capture GET request to devices endpoint, notarize `/devices` JSON field
       "lastActivity": "2025-10-31T12:34:56Z",
       "trusted": true
     },
-    ...
-  ```
+```
 
 ### Notes
