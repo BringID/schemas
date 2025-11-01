@@ -1,0 +1,7 @@
+```yaml
+blank_issues_enabled: true
+contact_links:
+  - name: BringID chat
+    url: https://t.me/bringid_chat
+    about: Join our Telegram chat
+```
