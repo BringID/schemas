@@ -2,7 +2,7 @@
 name: zkTLS Schema Idea
 about: Propose a new zkTLS verification schema
 title: '[schema] <Short Description>'
-labels: schema-idea
+labels: schema
 assignees: ''
 ---
 
